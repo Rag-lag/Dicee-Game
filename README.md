@@ -1,2 +1,2 @@
-# Dicee-Challenge---Starting-Files
+# Dicee-Game
  Coding challeenge. A dice game.
